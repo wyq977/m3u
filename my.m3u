@@ -1,0 +1,19 @@
+#EXTM3U
+
+## Huya ##
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1654682529" group-title="虎牙",虎牙英雄联盟赛事
+https://epg.112114.xyz/huya/660000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/d5/e6792b722c70a266a10f70f8778e47_180_135.jpg?1590336724" group-title="虎牙",WE957
+https://epg.112114.xyz/huya/890001
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/5d/0d26e4a8b734f422781989268cd4b8_180_135.jpg?1633067598" group-title="虎牙",解说海威
+https://epg.112114.xyz/huya/262985
+
+## DouYu ##
+
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201711/15/21/504191ca7a90005e02d4c2e0c4e68b35_middle.jpg" group-title="斗鱼",泽元元元元
+https://epg.112114.xyz/douyu/5066138
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/f8f19e85ffe04d918e64c152a99d724d_middle.jpg" group-title="斗鱼",解说米勒
+https://epg.112114.xyz/douyu/5067522
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/12b7497fe2d64c3088e9b941c223e0d4_middle.jpg" group-title="斗鱼",解说雨童
+https://epg.112114.xyz/douyu/5483356
